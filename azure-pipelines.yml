@@ -45,5 +45,5 @@ steps:
   condition: succeededOrFailed()
   inputs:
     testRunner: VSTest
-    testResultsFiles: '**/*.trx'
+    testResultsFiles: '**/*.
     
